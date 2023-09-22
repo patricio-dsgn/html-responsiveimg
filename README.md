@@ -1,8 +1,8 @@
 <div align="center">
-<img src="readme/pro-md.svg" alt="Logo" width="80" height="80">
-<h3 align="center">GitHub README Template</h3>
+<img src="readme/html-responsiveimg.svg" alt="Logo" width="80" height="80">
+<h3 align="center">html - responsive image</h3>
 <p align="center">
-An simple README template to your project
+An simple html-responsiveimg to your project
 <br><br>
 <a href="https://github.com/patricio-dsgn/readme">View Demo</a> <br>
 <a href="https://github.com/patricio-dsgn/readme/issues">Report Bug</a> <br>
